@@ -1,8 +1,8 @@
 module.exports = {
-  name: 'William Shakespeare',
-  title: 'Poet, playwright and actor',
+  name: 'Laura Maggio Tummiolo',
+  title: 'Auditor Free-Lancer',
   facts: {
-    'Residence': '<a href="https://www.google.com/maps/place/London,+UK/@51.5285582,-0.2416814,11z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5072178!4d-0.1275862"><i class="fa fa-home fact-icon"></i>London</a>',
+    'Residence': '<a href=https://www.google.com/maps/place/Roma+RM/@41.9097306,12.2558202,10z/data=!4m6!3m5!1s0x132f6196f9928ebb:0xb90f770693656e38!8m2!3d41.9027835!4d12.4963655!16zL20vMDZjNjI><i class="fa fa-home fact-icon"></i>Roma</a>',
     'Wiki': `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
                   <i class="fa-brands fa-wikipedia-w fact-icon"></i>William_Shakespeare
                 </a>`,
