@@ -3,11 +3,11 @@ module.exports = {
   title: 'Auditor Free-Lancer',
   facts: {
     'Residence': '<a href=https://www.google.com/maps/place/Roma+RM/@41.9097306,12.2558202,10z/data=!4m6!3m5!1s0x132f6196f9928ebb:0xb90f770693656e38!8m2!3d41.9027835!4d12.4963655!16zL20vMDZjNjI><i class="fa fa-home fact-icon"></i>Roma</a>',
-    'Wiki': `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
-                  <i class="fa-brands fa-wikipedia-w fact-icon"></i>William_Shakespeare
+    'Wiki': `<a href="https://www.linkedin.com/in/lauramaggiotummiolo">
+                  <i class="fa-brands fa-linkedin-in"></i>"></i>@lauramaggiotummiolo
                 </a>`,
-    'Twitter': `<a href="https://twitter.com/shakespeare"><i class="fa-brands fa-twitter fact-icon"></i>Shakespeare</a>`,
-    'Email': '<a href="mailto:wil64@yahoo.com"><i class="fa fa-envelope fact-icon"></i>wil64@yahoo.com</a>'
+    'Telefono': `<a href="tel:+393384914057"><i class="fa-brands fa-twitter fact-icon"></i>+39 338 491 4057</a>`,
+    'Email': '<a href="mailto:laura.maggiotummiolo@gmail.com"><i class="fa fa-envelope fact-icon"></i>laura.maggiotummiolo@gmail.com</a>'
   },
   skills: [
     ['Comedy', 100],
@@ -25,27 +25,76 @@ module.exports = {
   ],
   positions: [
     {
-      title: 'Hamlet',
-      period: 'Likely early 17th century',
+      location: "Roma, IT",
+      title: 'Auditor Free-Lancer',
+      period: 'TBA - Corrente',
       skills: ['tragedy', 'philosophy', 'death'],
       contents: `
-Prince Hamlet is visited by his father's ghost and ordered to avenge his father's murder by killing King Claudius, his uncle. After struggling with several questions, including whether what the ghost said is true and whether it is right for him to take revenge, Hamlet, along with almost all the other major characters, is killed.
+Addetta alla redazione di perizie tecnico-bancarie.
+Le principali mansioni svolte:
+
+* Redazione di Consulenze Tecniche di Ufficio (CTU) e Consulenze Tecniche di Parte (CTP)
+* Riconteggi di conti correnti bancari e mutui
+* Verifica dell’usura bancaria
 `
     },
     {
-      title: 'Twelfth Night',
-      period: '1600 – 1601',
+      company: "Serfin 97 S.r.l",
+      location: "Roma, IT",
+      title: 'Customer Case Specialist',
+      period: 'Ott 2012 – Mar 2016',
       skills: ['comedy', 'love'],
       contents: `
-Viola finds herself shipwrecked in Illyria and, assuming that her brother Sebastian has died in the wreck, disguises herself as a man to gain a position in Duke Orsino's court. Orsino sends Viola (whom he knows as Cesario) to deliver a message to his love, Olivia. Olivia, however, dislikes the Duke. She falls in love with Viola, who she thinks is a man. Eventually, Viola's brother Sebastian, who in fact was unharmed in the wreck, reappears. At a critical moment, Viola's true identity is revealed when members of the court notice the similarities between her and Sebastian. Olivia quickly falls in love with Sebastian, and Viola confesses her love for the Duke.
+Addetta all’assistenza amministrativa presso Serfin 97 S.r.l. per conto di Fastweb S.p.A.
+Le principali mansioni svolte:
+
+* Gestione dei dati di pagamento attraverso una piattaforma proprietaria
+* Risoluzione di problemi in fase di attivazione
 `
     },
     {
-      title: 'The Tragedy of Romeo and Juliet',
-      period: '1595–1596, with a possible early draft written in 1591',
+      company: "Herder Libreria e Editrice",
+      location: "Roma, IT",
+      title: 'Lead Book Distributor',
+      period: 'Giu 2010 - Dic 2011',
       skills: ['tragedy', 'death', 'love'],
       contents: `
-In Verona, Italy, two families, the Montagues and the Capulets, are in the midst of a bloody feud. Romeo, a Montague, and Juliet, a Capulet, fall in love and struggle to maintain their relationship in the face of familial hatred. After Romeo kills Juliet's cousin Tybalt in a fit of passion, things fall apart. Both lovers eventually commit suicide within minutes of each other, and the feuding families make peace over their recent grief.
+Responsabile della distribuzione editoriale presso Herder Libreria e Editrice.
+Le principali mansioni svolte:
+
+* Supervisione del personale addetto al magazzino
+* Elaborazione di brochure e aggiornamento del catalogo on-line
+* Redazione e compilazione di documenti contrattuali
+* Gestione dei rapporti con la tipografia
+`
+    },
+    {
+      company: "Herder Libreria e Editrice",
+      location: "Roma, IT",
+      title: 'Book Distribution Assistant',
+      period: 'Feb 2009 - Mag 2010',
+      skills: ['tragedy', 'death', 'love'],
+      contents: `
+Responsabile della distribuzione editoriale presso Herder Libreria e Editrice.
+Le principali mansioni svolte:
+
+* Catalogazione e archiviazione delle novità editoriali
+* Gestione degli abbonamenti e fatturazione degli ordini
+* Coordinazione della corrispondenza e comunicazione delle novità
+`
+    },
+    {
+      company: "INA - Assitalia",
+      location: "Roma, IT",
+      title: 'Archivista',
+      period: '1999 - 1999',
+      skills: ['tragedy', 'death', 'love'],
+      contents: `
+Archivista presso l’agenzia assicurativa INA - Assitalia. 
+Le principali mansioni svolte:
+
+* Organizzazione e schedatura delle polizze assicurative 
+* Gestione documentale per il personale assicurativo
 `
     }
   ],
