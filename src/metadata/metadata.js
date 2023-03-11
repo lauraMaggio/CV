@@ -2,10 +2,10 @@ module.exports = {
   name: 'Laura Maggio Tummiolo',
   title: 'Auditor Free-Lancer',
   facts: {
-    'Residenza': '<a href=https://www.google.com/maps/place/Roma+RM/@41.9097306,12.2558202,10z/data=!4m6!3m5!1s0x132f6196f9928ebb:0xb90f770693656e38!8m2!3d41.9027835!4d12.4963655!16zL20vMDZjNjI><i class="fa fa-home fact-icon"></i>Roma</a>',
-    'Linkedin': '<a href="https://www.linkedin.com/in/lauramaggiotummiolo"><i class="fab fa-linkedin fact-icon"></i> @lauramaggiotummiolo</a>',
-    'Telefono': '<a href="tel:+393384914057"><i class="fa fa-phone fact-icon"></i> +39 338 491 4057</a>',
-    'Mail ': '<a href="mailto:laura.maggiotummiolo@gmail.com"> laura.maggiotummiolo@gmail.com</a>'
+    'Residenza': '<a href=https://www.google.com/maps/place/Roma+RM/@41.9097306,12.2558202,10z/data=!4m6!3m5!1s0x132f6196f9928ebb:0xb90f770693656e38!8m2!3d41.9027835!4d12.4963655!16zL20vMDZjNjI><i class="fa fa-home fact-icon"></i>Roma, IT</a>',
+    'Linkedin': '<a href="https://www.linkedin.com/in/lauramaggiotummiolo"> &nbsp; @lauramaggiotummiolo</a>',
+    'Telefono': '<a href="tel:+393384914057"> +39 338 491 4057</a>',
+    'Mail': '<a href="mailto:laura.maggiotummiolo@gmail.com"> &nbsp; laura.maggiotummiolo@gmail.com</a>'
   },
   skills: [
     ['Spagnolo', 100],
@@ -22,7 +22,7 @@ module.exports = {
   positions: [
     {
       location: "Roma, IT",
-      title: 'Auditor Free-Lancer',
+      company: 'Auditor Free-Lancer',
       period: 'Feb 2017 - Corrente',
       contents: `
 Addetta alla redazione di perizie tecnico-bancarie.
