@@ -28,7 +28,7 @@ module.exports = {
       location: "Roma, IT",
       title: 'Auditor Free-Lancer',
       period: 'TBA - Corrente',
-      skills: ['tragedy', 'philosophy', 'death'],
+      skills: ['tragedy', 'philosophy'],
       contents: `
 Addetta alla redazione di perizie tecnico-bancarie.
 Le principali mansioni svolte:
