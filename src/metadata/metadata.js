@@ -22,7 +22,7 @@ module.exports = {
   positions: [
     {
       location: "Roma, IT",
-      company: 'Auditor Free-Lancer',
+      title: 'Auditor Free-Lancer',
       period: 'Feb 2017 - Corrente',
       contents: `
 Addetta alla redazione di perizie tecnico-bancarie.
