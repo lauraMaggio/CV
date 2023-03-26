@@ -12,11 +12,13 @@ module.exports = {
     ['Inglese', 75],
     ['Francese', 60],
     ['Portoghese', 40],
-    ['Tedesco', 30],
+    ['Excel', 100],
+    ['Word', 75],
+    ['Powerpoint', 65],
     ['Curiosità', 100],
     ['Precisione', 75],
     ['Affidabilità', 100],
-    ['Intraprendenza', 80],
+    ['Ingegno', 80],
     ['Versatilità', 80]
   ],
   positions: [
@@ -36,7 +38,7 @@ Le principali mansioni svolte:
     {
       company: "Serfin 97 S.r.l",
       location: "Roma, IT",
-      title: 'Customer Case Specialist',
+      title: 'Customer Care Specialist',
       period: 'Ott 2012 – Mar 2016',
       contents: `
 Addetta all’assistenza amministrativa presso Serfin 97 S.r.l. per conto di Fastweb S.p.A.
@@ -47,7 +49,7 @@ Le principali mansioni svolte:
 `
     },
     {
-      company: "Herder Libreria e Editrice",
+      company: "Herder Editrice e Libreria",
       location: "Roma, IT",
       title: 'Lead Book Distributor',
       period: 'Giu 2010 - Dic 2011',
@@ -62,7 +64,7 @@ Le principali mansioni svolte:
 `
     },
     {
-      company: "Herder Libreria e Editrice",
+      company: "Herder Editrice e Libreria",
       location: "Roma, IT",
       title: 'Book Distribution Assistant',
       period: 'Feb 2009 - Mag 2010',
@@ -91,18 +93,10 @@ Le principali mansioni svolte:
   ],
   experience: [
     {
-      header: 'Performance',
-      skills: ['theater', 'drama'],
+      header: 'Corsi seguiti',
       contents: `
-Thousands of performances of my plays have been staged since the end of the 16th century. Many of my greatest plays were performed by the Lord Chamberlain's Men and King's Men acting companies at the [Globe](https://en.wikipedia.org/wiki/Globe_Theatre) and Blackfriars Theatres.
-`
-    },
-    {
-      header: 'Poetry',
-      skills: ['poetry', 'erotic'],
-      contents: `
-In 1593 and 1594, when the theatres were closed because of plague, I published two narrative poems on sexual themes, Venus and Adonis and The Rape of Lucrece. I dedicated them to Henry Wriothesley, Earl of Southampton.
-`
+* Corso di Mindfulness
+* Corso da Sommelier (AIS)`
     }
   ]
 };
