@@ -1,10 +1,10 @@
 :root {
     --bs-font-sans-serif: EB Garamond, serif;
-    --bs-body-font-weight: 500;
-    --bs-body-color: #686868;
+    --bs-body-font-weight: 400;
+    --bs-body-color: #858585;
     --bs-body-color-rgb: 133, 133, 133;
     --light-color: #D9D9D9;
-    --bs-body-font-size: 1.25rem;
+    --bs-body-font-size: 1.2rem;
 }
 
 a {
@@ -22,7 +22,7 @@ h1, h2, h3, h4 {
     }
 
     body {
-        font-size: 0.75rem;
+        font-size: 0.7rem;
     }
 
     a {
@@ -48,7 +48,7 @@ h1, h2, h3, h4 {
     .badge {
         border: 0.07rem solid #868e96;
         color: inherit;
-        background-color: #000000;
+        background-color: inherit;
     }
 
     .print-url {
